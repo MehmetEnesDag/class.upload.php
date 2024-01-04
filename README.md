@@ -1,0 +1,1 @@
+İnternet üzerinde mevcut class.upload.php sayfalarının büyük bir kısmı PHP 7.4 ve üzeri sürümlerde çalışmadığından php üzerinde çalışanlara katkı sağlaması amacıyla paylaşılmıştır. Keyifli çalışmalar.
